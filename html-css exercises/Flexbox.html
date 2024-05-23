@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container{
+            display: flex;
+            width: 100vw;
+            height: 80vh;
+            background-color: paleturquoise;
+            flex-direction: row;
+        }
+        .blackbox{
+            width: 120px;
+            height: 120px;
+            background-color: black;
+            order: 2;
+            flex-grow: 1;
+        }
+        .redbox{
+            width: 120px;
+            height: 120px;
+            background-color: red;
+            order: 1;
+            flex-grow: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="blackbox"></div>
+        <div class="redbox"></div>
+    </div>
+    <!-- <div class="container">
+        <div class="blackbox"></div>
+        <div class="blackbox"></div>
+        <div class="blackbox"></div>
+        <div class="blackbox"></div>
+    </div> -->
+    <!-- justify-content: center; yatay olarak ortalar -->
+    <!-- justify-content: space-between; yatay olarak aralarında boşluk bırakarak hizalar-->
+    <!-- align-items: center; dikey olarak ortalar-->
+    <!-- flex-direction: column; bu özellik sütun olarak alt alta hizalar-->
+    <!-- flex-direction: row; satır olarak hizalar -->
+    <!-- order: sıra özelliği divin sırasını belirler -->
+    <!-- flex-grow: ekranı genişlik olarak tamamen kaplamalarını sağlar red olana 2 dersek black olana 
+    1 dersek ekranı genişlik olarak üçe bölücektir 2 kısmı red 1 kısmını black olan kaplicaktır-->
+
+</body>
+</html>

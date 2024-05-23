@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .tbox{
+            width: 125px;
+            height: 25px;
+        }
+        .tbox:hover{
+            background-color: red;
+        }
+        .tbox:focus{
+            background-color: green;
+        }
+        .pclass{
+            color: red;
+        }
+        .pclass::first-line{
+            color: green;
+        }
+        .pclass::first-letter{
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" class="tbox">
+
+    <p class="pclass">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima blanditiis molestiae quod provident temporibus velit unde sed ducimus obcaecati? Consequuntur hic tempora distinctio atque eum autem eos officiis nulla beatae!molestiae quod provident temporibus velit
+    </p>
+    <!-- first-line = ilk satıra özellik verdik -->
+    <!-- first-letter = ilk harfe özellik verdik -->
+    <!-- focus = butona tıklandığında -->
+    <!-- hover = imleç üzerine gelince -->
+
+</body>
+</html>
