@@ -72,4 +72,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ---
 
-Bu repo, HTML ve CSS konularında pratik yapmamı ve öğrenmemi sağlıyor. Her türlü geri bildirim ve katkı memnuniyetle karşılanır!
+Bu repo, HTML ve CSS konularında pratik yapmamı sağlıyor. Her türlü geri bildirim ve katkı memnuniyetle karşılanır!
