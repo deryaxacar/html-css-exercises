@@ -1,6 +1,6 @@
 # HTML-CSS Exercises
 
-Bu repo, HTML ve CSS konularında çeşitli alıştırmalar içerir. Her bir dosya, belirli bir konuyu öğretmek ve bu konularda pratik yapmamı sağlamak amacıyla tasarlanmıştır.
+Bu repo, HTML ve CSS konularında çeşitli alıştırmalar içerir. Her bir dosya, belirli bir konuyu öğretmek ve bu konularda pratik yapmayı sağlamak amacıyla tasarlanmıştır. Amaç, temel HTML ve CSS bilgilerini pekiştirme ve bu konularda daha derinlemesine bilgi sahibi olmak ve ileri düzey teknikleri uygulamalı olarak öğrenmektir.
 
 ## İçindekiler
 
