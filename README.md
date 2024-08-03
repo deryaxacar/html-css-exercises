@@ -1,8 +1,8 @@
-# HTML-CSS Exercises
+# HTML-CSS Exercises 📝
 
 Bu repo, HTML ve CSS konularında çeşitli alıştırmalar içerir. Her bir dosya, belirli bir konuyu öğretmek ve bu konularda pratik yapmayı sağlamak amacıyla tasarlanmıştır. Amaç, temel HTML ve CSS bilgilerini pekiştirme vaynı zamanda bu konularda daha derinlemesine bilgi sahibi olmak ve ileri düzey teknikleri uygulamalı olarak öğrenmektir.
 
-## İçindekiler
+## İçindekiler 📋
 
 1. [Genel Bilgiler](#genel-bilgiler)
 2. [Kurulum](#kurulum)
@@ -12,11 +12,11 @@ Bu repo, HTML ve CSS konularında çeşitli alıştırmalar içerir. Her bir dos
 
 ## Genel Bilgiler
 
-Bu repo, HTML ve CSS konularında pratik yapmamı sağlayan çeşitli alıştırmaları içermektedir. Bu alıştırmalar, temel HTML yapılarını, CSS seçicilerini, Flexbox ve Grid gibi gelişmiş düzen tekniklerini ve daha fazlasını kapsamaktadır.
+Bu repo, HTML ve CSS konularında pratik yapmamı sağlayan çeşitli alıştırmaları içermektedir. Bu alıştırmalar, temel HTML yapılarını, CSS seçicilerini, Flexbox ve Grid gibi gelişmiş düzen tekniklerini ve daha fazlasını kapsamaktadır. 📚
 
 ## Kurulum
 
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin 🚀: 
 
 1. Bu repoyu bilgisayarınıza klonlayın:
     ```sh
