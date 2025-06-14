@@ -1,75 +1,88 @@
 # HTML-CSS Exercises 📝
 
-Bu repo, HTML ve CSS konularında çeşitli alıştırmalar içerir. Her bir dosya, belirli bir konuyu öğretmek ve bu konularda pratik yapmayı sağlamak amacıyla tasarlanmıştır. Amaç, temel HTML ve CSS bilgilerini pekiştirme vaynı zamanda bu konularda daha derinlemesine bilgi sahibi olmak ve ileri düzey teknikleri uygulamalı olarak öğrenmektir.
+This repository contains various exercises focused on HTML and CSS topics. Each file is designed to teach a specific subject and provide hands-on practice.  
+The goal is to reinforce fundamental HTML and CSS knowledge while also gaining deeper insight into these topics and applying advanced techniques through practical examples.
 
-## İçindekiler 📋
+## Table of Contents 📋
 
-1. [Genel Bilgiler](#genel-bilgiler)
-2. [Kurulum](#kurulum)
-3. [Alıştırmalar](#alıştırmalar)
-    - [HTML Alıştırmaları](#html-alıştırmaları)
-    - [CSS Alıştırmaları](#css-alıştırmaları)
+- [Overview](#overview)
+- [Setup](#setup)
+- [Exercises](#exercises)
+   - [HTML Exercises](#html-exercises)
+   - [CSS Exercises](#css-exercises)
 
-## Genel Bilgiler
+## Overview
 
-Bu repo, HTML ve CSS konularında pratik yapmamı sağlayan çeşitli alıştırmaları içermektedir. Bu alıştırmalar, temel HTML yapılarını, CSS seçicilerini, Flexbox ve Grid gibi gelişmiş düzen tekniklerini ve daha fazlasını kapsamaktadır. 📚
+This repository includes various exercises that help me practice HTML and CSS. These exercises cover:
 
-## Kurulum
+- Basic HTML structures  
+- CSS selectors  
+- Advanced layout techniques such as **Flexbox** and **Grid**  
+- And much more 📚
 
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin 🚀: 
+## Setup
 
-1. Bu repoyu bilgisayarınıza klonlayın:
-    ```sh
-    git clone https://github.com/deryaxacar/html-css-exercises.git
+To run the project on your local machine, follow these steps 🚀:
+
+1. Clone this repository to your computer:
+   ```sh
+   git clone https://github.com/deryaxacar/html-css-exercises.git
     ```
-2. Klonladığınız dizine gidin:
+2. Navigate into the cloned directory:
     ```sh
     cd html-css-exercises/html-css exercises
     ```
-3. Alıştırmaları tarayıcınızda açmak için herhangi bir HTML dosyasını açabilirsiniz. Örneğin:
+3. Open any HTML file in your browser. For example:
     ```sh
     open HtmlExample.html
     ```
 
-## Alıştırmalar
+## Exercises
 
-### HTML Alıştırmaları
+### HTML Exercises
 
-- **Audio.html**: HTML5 ses öğelerini kullanma.
-- **Forms.html**: HTML formları oluşturma ve kullanma.
-- **HtmlExample.html**: Temel HTML yapılarını öğrenme.
-- **Link.html**: HTML bağlantıları oluşturma ve kullanma.
-- **Lists.html**: HTML listeleri (sıralı ve sırasız) oluşturma.
-- **Mark-Strong.html**: HTML metin biçimlendirme etiketlerini kullanma.
-- **Paragraph-Header.html**: Paragraf ve başlık etiketleri ile çalışma.
-- **Tables.html**: HTML tabloları oluşturma ve kullanma.
-- **Video.html**: HTML5 video öğelerini kullanma.
-- **İD-Class.html**: ID ve class seçicilerini kullanma.
-- **İmage.html**: HTML resim öğelerini kullanma.
+- **Audio.html**: Using HTML5 audio elements
+- **Forms.html**: Creating and using HTML forms
+- **HtmlExample.html**: Learning basic HTML structure
+- **Link.html**: Creating and using links
+- **Lists.html**: Creating ordered and unordered lists
+- **Mark-Strong.html**: Using text formatting tags
+- **Paragraph-Header.html**: Working with paragraphs and headings
+- **Tables.html**: Creating and using tables
+- **Video.html**: Using HTML5 video elements
+- **İD-Class.html**: Working with ID and class selectors
+- **İmage.html**: Displaying images in HTML
 
-### CSS Alıştırmaları
+### CSS Exercises
 
-- **CssSelectors.html**: CSS seçiciler ve kullanımları.
-- **CssTables.html**: CSS ile tabloları biçimlendirme.
-- **CssTables2.html**: CSS ile gelişmiş tablo biçimlendirme.
-- **CssTypes.html**: Farklı CSS türleri ve kullanımları.
-- **Flexbox.html**: Flexbox ile esnek düzenler oluşturma.
-- **Floats.html**: CSS float özelliği ile düzen oluşturma.
-- **HoverButton.html**: CSS ile hover efektleri oluşturma.
-- **Layout.html**: CSS ile sayfa düzeni oluşturma.
-- **Margin.html**: CSS margin (kenar boşluğu) özelliklerini kullanma.
-- **MediaQueries.html**: CSS medya sorguları ile duyarlı tasarım oluşturma.
-- **Overflow.html**: CSS overflow (taşma) özelliklerini kullanma.
-- **Padding.html**: CSS padding (iç boşluk) özelliklerini kullanma.
-- **Positions.html**: CSS pozisyonlama (position) özelliklerini kullanma.
-- **Pseudo-Class.html**: CSS pseudo-class (sözde sınıf) kullanımı.
-- **background.html**: CSS ile arka plan özelliklerini kullanma.
-- **border.html**: CSS ile kenarlık (border) özelliklerini kullanma.
-- **em-rem.html**: CSS ile em ve rem birimlerini kullanma.
-- **icons.html**: CSS ile ikonları kullanma.
-- **İnline-Block.html**: CSS inline ve block özelliklerini kullanma.
-- **İnlineBlock.html**: CSS inline-block özelliği ile çalışma.
+- **CssSelectors.html**: CSS selectors and how to use them
+- **CssTables.html**: Styling tables with CSS
+- **CssTables2.html**: Advanced table styling
+- **CssTypes.html**: Types of CSS and how to use them
+- **Flexbox.html**: Creating flexible layouts with Flexbox
+- **Floats.html**: Using the float property for layout
+- **HoverButton.html**: Creating hover effects with CSS
+- **Layout.html**: Creating page layouts using CSS
+- **Margin.html**: Working with the CSS margin property
+- **MediaQueries.html**: Creating responsive designs with media queries
+- **Overflow.html**: Handling overflow in CSS
+- **Padding.html**: Using the CSS padding property
+- **Positions.html**: Positioning elements in CSS (static, relative, absolute, etc.)
+- **Pseudo-Class.html**: Using pseudo-classes like :hover, :first-child, etc.
+- **background.html**: Background styling in CSS
+- **border.html**: Styling borders in CSS
+- **em-rem.html**: Using em and rem units
+- **icons.html**: Using icons in CSS
+- **İnline-Block.html**: Understanding and using inline vs block
+- **İnlineBlock.html**: Working with the inline-block layout model
 
 ---
 
-Bu repoda, HTML ve CSS ile yapmış olduğum pratikleri paylaşıyorum. Her türlü geri bildirim ve katkı memnuniyetle karşılanır!
+I'm sharing the practice work I've done with HTML and CSS in this repository. All kinds of feedback and contributions are welcome!
+
+---
+
+<div align="center">
+  <b>2022 | Created by Derya ACAR</b>
+</div>
+
