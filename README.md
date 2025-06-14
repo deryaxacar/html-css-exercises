@@ -1,7 +1,11 @@
-# HTML-CSS Exercises 📝
+<div align="center">
+  <h1>HTML-CSS Exercises 📝</h1> <img src="https://github.com/deryaxacar/html-css-exercises/blob/main/images.png" alt="html-css Logo" width="170"></br></br>
+</div>
 
+<p align="center">
 This repository contains various exercises focused on HTML and CSS topics. Each file is designed to teach a specific subject and provide hands-on practice.  
 The goal is to reinforce fundamental HTML and CSS knowledge while also gaining deeper insight into these topics and applying advanced techniques through practical examples.
+</p>
 
 ## Table of Contents 📋
 
